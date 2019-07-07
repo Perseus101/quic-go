@@ -4,7 +4,7 @@ import (
 	"crypto/cipher"
 	"encoding/binary"
 
-	"github.com/lucas-clemente/quic-go/internal/protocol"
+	"github.com/perseus101/quic-go/internal/protocol"
 )
 
 type sealer struct {

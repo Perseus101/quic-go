@@ -7,10 +7,10 @@ import (
 	"net"
 	"sync"
 
-	"github.com/lucas-clemente/quic-go/internal/handshake"
-	"github.com/lucas-clemente/quic-go/internal/protocol"
-	"github.com/lucas-clemente/quic-go/internal/utils"
-	"github.com/lucas-clemente/quic-go/internal/wire"
+	"github.com/perseus101/quic-go/internal/handshake"
+	"github.com/perseus101/quic-go/internal/protocol"
+	"github.com/perseus101/quic-go/internal/utils"
+	"github.com/perseus101/quic-go/internal/wire"
 )
 
 type client struct {

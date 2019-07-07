@@ -4,7 +4,7 @@ import (
 	"crypto"
 	"crypto/aes"
 
-	"github.com/lucas-clemente/quic-go/internal/protocol"
+	"github.com/perseus101/quic-go/internal/protocol"
 	"github.com/marten-seemann/qtls"
 )
 

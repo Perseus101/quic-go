@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/lucas-clemente/quic-go/internal/protocol"
-	"github.com/lucas-clemente/quic-go/internal/qerr"
+	"github.com/perseus101/quic-go/internal/protocol"
+	"github.com/perseus101/quic-go/internal/qerr"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

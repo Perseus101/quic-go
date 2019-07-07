@@ -12,10 +12,10 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/lucas-clemente/quic-go/internal/protocol"
-	"github.com/lucas-clemente/quic-go/internal/qerr"
-	"github.com/lucas-clemente/quic-go/internal/testdata"
-	"github.com/lucas-clemente/quic-go/internal/utils"
+	"github.com/perseus101/quic-go/internal/protocol"
+	"github.com/perseus101/quic-go/internal/qerr"
+	"github.com/perseus101/quic-go/internal/testdata"
+	"github.com/perseus101/quic-go/internal/utils"
 	"github.com/marten-seemann/qtls"
 
 	. "github.com/onsi/ginkgo"

@@ -7,9 +7,9 @@ import (
 	"net"
 	"time"
 
-	quic "github.com/lucas-clemente/quic-go"
-	"github.com/lucas-clemente/quic-go/integrationtests/tools/testserver"
-	"github.com/lucas-clemente/quic-go/internal/testdata"
+	quic "github.com/perseus101/quic-go"
+	"github.com/perseus101/quic-go/integrationtests/tools/testserver"
+	"github.com/perseus101/quic-go/internal/testdata"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

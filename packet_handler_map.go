@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/lucas-clemente/quic-go/internal/protocol"
-	"github.com/lucas-clemente/quic-go/internal/utils"
-	"github.com/lucas-clemente/quic-go/internal/wire"
+	"github.com/perseus101/quic-go/internal/protocol"
+	"github.com/perseus101/quic-go/internal/utils"
+	"github.com/perseus101/quic-go/internal/wire"
 )
 
 // The packetHandlerMap stores packetHandlers, identified by connection ID.
