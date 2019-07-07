@@ -5,7 +5,6 @@ go 1.12
 require (
 	github.com/cheekybits/genny v1.0.0
 	github.com/golang/mock v1.2.0
-	github.com/perseus101/quic-go v0.11.2
 	github.com/marten-seemann/qtls v0.2.3
 	github.com/onsi/ginkgo v1.7.0
 	github.com/onsi/gomega v1.4.3
